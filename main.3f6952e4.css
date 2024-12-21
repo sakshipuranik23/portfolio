@@ -6265,3 +6265,13 @@ textarea {
   }
 }
 
+@media (max-width:480px){
+
+  h1{
+    font-size: 4.5rem;
+  }
+  .sml{
+    font-size: 1.3rem;
+  }
+ 
+}
